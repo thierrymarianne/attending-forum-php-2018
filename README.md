@@ -1,5 +1,7 @@
 # Visualization material of Twitter statuses published during the ForumPHP 2018
 
+![Statuses published during the ForumPHP 2018](https://thierry.marianne.io/events/forumphp2018/forumphp-2018.png)
+
 Template provided by InteractiveVis project
 http://blogs.oii.ox.ac.uk/vis/
 https://github.com/oxfordinternetinstitute/InteractiveVis/
