@@ -2,7 +2,7 @@
 
 See the corresponding [github page](https://thierrymarianne.github.io/attending-forumphp-2018/).
 
-![Statuses published during the ForumPHP 2018](https://thierry.marianne.io/events/forumphp2018/forumphp-2018.png)
+![Graph-oriented representation of statuses published during the ForumPHP 2018 via Twitter](../main/images/forumphp-2018.jpg?raw=true)
 
 Template provided by InteractiveVis project
 http://blogs.oii.ox.ac.uk/vis/
